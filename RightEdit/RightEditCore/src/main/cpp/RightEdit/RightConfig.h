@@ -1,0 +1,7 @@
+#ifndef __CMAKE_CONFIG_DEF_
+#define __CMAKE_CONFIG_DEF_
+
+#define CONFIG_IS_ENABLE_LIBYUV
+#define CONFIG_FFMPEG_LOAD_STATIC
+
+#endif
